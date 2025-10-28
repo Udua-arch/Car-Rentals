@@ -1,0 +1,16 @@
+{
+    "67850f20d3470": {
+        "fullname": "Mary",
+        "email": "okonmary1502@gmail.com",
+        "password": "$2y$12$wFgbxy5kM4swkZxCcEm.2O74YI8xx4cF7kj4iG37T4XPlHwdgANEe",
+        "is_admin": false,
+        "id": "67850f20d3470"
+    },
+    "690018e9d54f5": {
+        "fullname": "kuh",
+        "email": "marynnjn@gmail.com",
+        "password": "$2y$12$Nwf5pEfIVIEH8R9dHgT0ZePyukWGR2cRYytdzYxZFYMSbLz1UGveG",
+        "is_admin": false,
+        "id": "690018e9d54f5"
+    }
+}
