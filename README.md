@@ -56,4 +56,25 @@ It was developed as part of a **university coursework project**, and showcases b
 | **Server** | XAMPP / Apache |
 | **Version Control** | Git & GitHub |
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage Screenshot](screenshots/Homepage.png)
+
+### 🚘 Car Details
+![Car Details](screenshots/Car_Details.png)
+
+### 📅 Booking Confirmation
+![Booking Confirmation](screenshots/Booking_Confirmation.png)
+
+### 👤 User Profile
+![User Profile](screenshots/User_Profile.png)
+
+### 🔐 Login / Registration
+![Login Registration](screenshots/Login_Registration.png)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/Admin_Dashboard.png)
+
+
 
