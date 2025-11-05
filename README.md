@@ -1,6 +1,6 @@
 # 🚗 Car Rental Management System
 
-A **full-featured Car Rental web application** built with PHP, CSS, and MySQL.  
+A **full-featured Car Rental web application** built with PHP, CSS, and JSON file-based storage.  
 This project allows users to register, log in, browse available cars, view details, make bookings, and manage their profiles — while admins can add, edit, or delete cars from the inventory.  
 
 It was developed as part of a **university coursework project**, and showcases both front-end and back-end development skills, including authentication, data persistence, and AJAX interactions.
@@ -52,7 +52,7 @@ It was developed as part of a **university coursework project**, and showcases b
 |------------|-------------|
 | **Frontend** | HTML5, CSS3, JavaScript (AJAX) |
 | **Backend** | PHP (Procedural) |
-| **Database** | MySQL |
+| **Database** | JSON file-based storage |
 | **Server** | XAMPP / Apache |
 | **Version Control** | Git & GitHub |
 
